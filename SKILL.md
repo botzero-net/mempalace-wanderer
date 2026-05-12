@@ -1,5 +1,5 @@
 ---
-name: mempalace-mastery
+name: mempalace-wanderer
 description: "Complete MemPalace skill — setup, protocol, tool reference, KG seeding, tunnels, diagnostics, pitfalls. One skill, no dependencies on other skills."
 version: 3.0.0
 author: Tim the Spider / Botzero
